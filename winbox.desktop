@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Winbox
+Comment=Mikrotik Winbox
+Exec=wine /bin/winbox64 192.168.0.1 admin
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/usr/sbin/winbox/icon.png
+Categories=GNOME;GTK;Network;
+StartupNotify=true
+StartupWMClass=ConnectDataSpace
+
